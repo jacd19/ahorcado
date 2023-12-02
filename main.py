@@ -69,4 +69,4 @@ class game_ahorcado:
 
 
 if __name__ == "__main__":
-    game= game_ahorcado(input("Escribe una palabra: "))
+    game= game_ahorcado(input("Escribe una palabra: ")) 
